@@ -1,0 +1,4 @@
+aws cloudformation deploy \
+	--template-file /Users/jharknes/git/some-lambda/serverless-output.yaml \
+   --stack-name jh-stack \
+   --capabilities CAPABILITY_IAM
