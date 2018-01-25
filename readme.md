@@ -8,7 +8,7 @@ this is about the simplist setup to prove its possible.
 `./delete-stack` will remove the stack
 
 # api-gateway config
-This was done manually.
+This was done manually, though I hope to add it to the cloud-formation script eventually.
 
 - Create a new api
 - Create a new resource for `/`
